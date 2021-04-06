@@ -28,3 +28,5 @@ comment out start time
 
 wrong timezone
 too many connections
+now add some secrets
+secret = 'aUSHFPDSHFQp18uPjSf9*'
