@@ -31,6 +31,7 @@ too many connections
 now add some secrets
 
 correct line no?
+offset line no
 secret = 'aUSHFPDSHFQp18uPjSf9*'
 
 unhashable type list
