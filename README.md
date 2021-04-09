@@ -5,4 +5,4 @@ update last contr time
 1111
 
 change the line number
-secret = 'aSIOFHoiqRHO@-91'
+remove the secret
