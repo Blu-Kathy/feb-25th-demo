@@ -10,3 +10,5 @@ remove the secret
 
 errors
 can annotations get linked from previous commits
+annotations from previous commits should still exist?
+unless the PR was created after the commits were removed from history
